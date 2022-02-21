@@ -1,0 +1,6 @@
+fpga_hdmi_test
+.Xil
+*.jou
+*.log
+*.str
+
