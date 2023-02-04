@@ -1,7 +1,7 @@
-# Zybo Z7-20 FPGA HDMI Test
+# Zybo Z7-20 HDMI Echo Reference Design
 
 ## Description
-A simple Vivado HDMI test project that echos the HDMI input to the HDMI output in the FPGA programmable logic of a Zybo Z7-20 board.
+A simple Vivado HDMI echo reference design that echos the HDMI input to the HDMI output in the FPGA programmable logic of a Zybo Z7-20 board.
 
 https://user-images.githubusercontent.com/29415197/154883277-7094feda-99f1-46d9-8d17-99b99be47359.mp4
 
